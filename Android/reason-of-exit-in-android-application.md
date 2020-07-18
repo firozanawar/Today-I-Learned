@@ -1,4 +1,5 @@
-Android R, we can log the exit reason of Android App using ActivityManager. Below id the code snippts..
+#### Introduction
+In Android R, we can log the exit reason of Android App using ActivityManager.we might have to keep an eye on crashes or unwanted ways that the user exits the app. Below id the code snippts..
 
 ```
 val am = applicationContext.getSystemService(Context.ACTIVITY_SERVICE) as ActivityManager
@@ -13,14 +14,11 @@ val am = applicationContext.getSystemService(Context.ACTIVITY_SERVICE) as Activi
             lastExitInformation.description?.let {
                 Log.d(TAG, "Description: ${it}")
             }
-
-            textView.text = lastExitInformation.reason.toString()
         }
 ```
 
+### Output:-
 ```
-Output:-
-
 - MainActivity: Reason: 14
 - MainActivity: Timestamp: 1589627622761
 - MainActivity: Description: crash
@@ -44,5 +42,6 @@ const val REASON_UNKNOWN = 0
 const val REASON_USER_REQUESTED = 10
 const val REASON_USER_STOPPED = 11
 ```
+Reference:- https://blog.mindorks.com/reason-of-exit-in-android-application
 
-Happy learning.
+Happy learning :)
