@@ -1,15 +1,18 @@
 # Today-I-Learned
-A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post.
-
-### Android
-
-
-### Git
-- [Git related informations](https://github.com/firozanawar/Today-I-Learned/tree/master/Git)
+A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
+It never too late start as frresh and its OK to go slow.
 
 
+#### 11-August-2022
+Android 
+* Creatd a demo of WebView inside fragment - Support link : https://github.com/ihfazhillah/rwid-tutorial-webview
+* Learned the Basic HACKING ANDROID WebViews from https://www.youtube.com/watch?v=qS5PkC-37io
+* Brushing up the Android Components: Activities from https://www.youtube.com/watch?v=Wg-pZAQAYHA
+DSA 
+* N.A
 
 
-### Inspiration
 
-Inspired by https://github.com/anitaa1990/Today-I-Learned
+
+
+
