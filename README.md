@@ -4,9 +4,13 @@ It never too late start as frresh and its OK to go slow.
 
 #### 13-August-2022
 * Subset Sum I | Recursion | from https://www.youtube.com/watch?v=rYkfBRtMJr8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=10
+* Subset Sum II | Leetcode | Recursion from https://www.youtube.com/watch?v=RIn3gOkbhQE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=11
+* Brushing up the Android Components: Broadcast Reciever from https://www.youtube.com/watch?v=GZmM_x-PJBY
+* Overview of Android Components: Content Providers from https://www.youtube.com/watch?v=b3m9UIeSpBY
 
 #### 12-August-2022
 * Overview of Android Components: Services from https://www.youtube.com/watch?v=BKvwuZ5ib1M
+* Brushing up the Android Components: Servics from https://www.youtube.com/watch?v=BKvwuZ5ib1M
 
 #### 11-August-2022
 * Creatd a demo of WebView inside fragment - Support link : https://github.com/ihfazhillah/rwid-tutorial-webview
