@@ -1,6 +1,10 @@
 # Today-I-Learned
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
-It never too late start as frresh and its OK to go slow.
+Motivation : It never too late start as fresh and its OK to go slow.
+
+#### 14-August-2022
+* Print all Permutations of a String/Array | Recursion | Approach - 1 from https://www.youtube.com/watch?v=YK78FU5Ffjw&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=12
+* Overview of Android Components: Intents from https://www.youtube.com/watch?v=ptt7uo7lyhs
 
 #### 13-August-2022
 * Subset Sum I | Recursion | from https://www.youtube.com/watch?v=rYkfBRtMJr8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=10
