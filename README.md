@@ -4,7 +4,9 @@ Motivation : It never too late start as fresh and its OK to go slow.
 
 #### 14-August-2022
 * Print all Permutations of a String/Array | Recursion | Approach - 1 from https://www.youtube.com/watch?v=YK78FU5Ffjw&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=12
+* Print all Permutations of a String/Array | Recursion | Approach - 2 from https://www.youtube.com/watch?v=f2ic2Rsc9pU&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=13
 * Overview of Android Components: Intents from https://www.youtube.com/watch?v=ptt7uo7lyhs
+* Read the basics and fundamentals of Kotlin Coroutines from https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide
 
 #### 13-August-2022
 * Subset Sum I | Recursion | from https://www.youtube.com/watch?v=rYkfBRtMJr8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=10
