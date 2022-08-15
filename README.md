@@ -2,6 +2,12 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
 Motivation : It never too late start as fresh and its OK to go slow.
 
+#### 16-August-2022
+* N-Queens | Leetcode Hard | Backtracking from https://www.youtube.com/watch?v=i05Ju7AftcM&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=14
+
+#### 15-August-2022
+* Learning Kotlin Coroutines in Android from https://proandroiddev.com/kotlin-coroutines-in-andriod-ff0b3b399fa0
+
 #### 14-August-2022
 * Print all Permutations of a String/Array | Recursion | Approach - 1 from https://www.youtube.com/watch?v=YK78FU5Ffjw&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=12
 * Print all Permutations of a String/Array | Recursion | Approach - 2 from https://www.youtube.com/watch?v=f2ic2Rsc9pU&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=13
