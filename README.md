@@ -3,7 +3,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 Motivation : It never too late start as fresh and its OK to go slow.
 
 #### 16-August-2022
-* N-Queens | Leetcode Hard | Backtracking from https://www.youtube.com/watch?v=i05Ju7AftcM&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=14
+* Learned how to impleement contact pick for PhoneNumber, Name & Email from https://www.youtube.com/watch?v=-YowmffKk9w
 
 #### 15-August-2022
 * Learning Kotlin Coroutines in Android from https://proandroiddev.com/kotlin-coroutines-in-andriod-ff0b3b399fa0
