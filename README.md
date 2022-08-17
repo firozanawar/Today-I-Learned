@@ -4,6 +4,7 @@ Motivation : It never too late start as fresh and its OK to go slow.
 
 #### 17-August-2022
 * N-Queens | Leetcode Hard | Backtracking from https://www.youtube.com/watch?v=i05Ju7AftcM&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=15
+* Learned Scaling Android Apps with Gradle! (BuildTypes, ProductFlavors)- Part 1 from https://tech.olx.com/scaling-android-apps-using-gradle-buildtypes-productflavors-gradle-properties-part-1-3ae308b93ce2
 
 #### 16-August-2022
 * Learned how to implement contact pick for PhoneNumber, Name & Email from https://www.youtube.com/watch?v=-YowmffKk9w
