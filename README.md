@@ -2,6 +2,9 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
 Motivation : It never too late start as fresh and its OK to go slow.
 
+#### 18-August-2022
+* How to make Android Studio looks awesome from https://blog.protein.tech/how-to-make-android-studio-look-awesome-ee19e3719a59
+
 #### 17-August-2022
 * N-Queens | Leetcode Hard | Backtracking from https://www.youtube.com/watch?v=i05Ju7AftcM&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=15
 * Learned Scaling Android Apps with Gradle! (BuildTypes, ProductFlavors)- Part 1 from https://tech.olx.com/scaling-android-apps-using-gradle-buildtypes-productflavors-gradle-properties-part-1-3ae308b93ce2
