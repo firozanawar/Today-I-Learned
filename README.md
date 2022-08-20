@@ -2,6 +2,9 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
 Motivation : It never too late start as fresh and its OK to go slow.
 
+#### 19-August-2022
+* Sudoko Solver | Backtracking from https://www.youtube.com/watch?v=FWAIf_EVUKE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=15
+
 #### 18-August-2022
 * How to make Android Studio looks awesome from https://blog.protein.tech/how-to-make-android-studio-look-awesome-ee19e3719a59
 
