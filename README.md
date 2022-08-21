@@ -2,8 +2,12 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
 Motivation : It never too late start as fresh and its OK to go slow.
 
+### 22-August-2022
+* Understanding the Kotlin Coroutines in Android from https://proandroiddev.com/kotlin-coroutines-in-andriod-ff0b3b399fa0
+
 #### 21-August-2022
-* Kotlin fundamentals Brush up
+* Written Kotlin fundamentals Blog on wordpress till loops - https://firozanwarblog.wordpress.com/kotlin-fundamentals/
+* Cancellation of Coroutines in Kotlin - https://medium.com/@mustafakhaled290/cancellation-of-coroutines-in-kotlin-26a2d111d277
 
 #### 20-August-2022
 * M-Coloring Problem | Backtracking from https://www.youtube.com/watch?v=wuVwUK25Rfc&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=17
