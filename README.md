@@ -2,6 +2,12 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
 Motivation : It never too late start as fresh and its OK to go slow.
 
+#### 21-August-2022
+* Kotlin fundamentals Brush up
+
+#### 20-August-2022
+* M-Coloring Problem | Backtracking from https://www.youtube.com/watch?v=wuVwUK25Rfc&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=17
+
 #### 19-August-2022
 * Sudoko Solver | Backtracking from https://www.youtube.com/watch?v=FWAIf_EVUKE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=15
 
