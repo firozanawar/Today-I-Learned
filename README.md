@@ -2,6 +2,12 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
 Motivation : It never too late start as fresh and its OK to go slow.
 
+### 24-August-2022
+* Communication from WebView to Native iOS/ Android App from https://medium.com/@sreeharikv112/communication-from-webview-to-native-ios-android-app-6d842cefe02d
+
+### 23-August-2022
+* Understanding the Kotlin Coroutines in Android from https://proandroiddev.com/kotlin-coroutines-in-andriod-ff0b3b399fa0
+
 ### 22-August-2022
 * Understanding the Kotlin Coroutines in Android from https://proandroiddev.com/kotlin-coroutines-in-andriod-ff0b3b399fa0
 
