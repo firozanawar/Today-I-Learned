@@ -2,6 +2,15 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
 Motivation : It never too late start as fresh and its OK to go slow.
 
+### 25-August-2022
+* Learning MockK, the idiomatic mocking framework for Kotlin from below series..
+    1. https://www.youtube.com/watch?v=PoifD5FdJ7Y
+    2. https://blog.kotlin-academy.com/mocking-is-not-rocket-science-basics-ae55d0aadf2b
+    3. https://blog.kotlin-academy.com/mocking-is-not-rocket-science-expected-behavior-and-behavior-verification-3862dd0e0f03
+    4. https://blog.kotlin-academy.com/mocking-is-not-rocket-science-mockk-features-e5d55d735a98
+    5. https://mockk.io/#matchers
+    
+
 ### 24-August-2022
 * Communication from WebView to Native iOS/ Android App from https://medium.com/@sreeharikv112/communication-from-webview-to-native-ios-android-app-6d842cefe02d
 
