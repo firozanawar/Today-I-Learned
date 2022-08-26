@@ -1,6 +1,13 @@
 # Today-I-Learned
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
+
 Motivation : It never too late start as fresh and its OK to go slow.
+
+### 26-August-2022
+* Singleton, Factory Pattern learning from
+  1. https://medium.com/@ahmadkazimi/6-design-patterns-every-android-developer-must-know-53d912b5864b
+  2. https://www.codementor.io/@devmike01/factory-pattern-here-is-how-its-done-on-android-t0jghhfof
+  3. https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android
 
 ### 25-August-2022
 * Learning MockK, the idiomatic mocking framework for Kotlin from below series..
@@ -9,8 +16,8 @@ Motivation : It never too late start as fresh and its OK to go slow.
     3. https://blog.kotlin-academy.com/mocking-is-not-rocket-science-expected-behavior-and-behavior-verification-3862dd0e0f03
     4. https://blog.kotlin-academy.com/mocking-is-not-rocket-science-mockk-features-e5d55d735a98
     5. https://mockk.io/#matchers
+    6. Unit Testing Complex object with mockk from https://www.youtube.com/watch?v=5cBg5ZA8pYM
     
-
 ### 24-August-2022
 * Communication from WebView to Native iOS/ Android App from https://medium.com/@sreeharikv112/communication-from-webview-to-native-ios-android-app-6d842cefe02d
 
