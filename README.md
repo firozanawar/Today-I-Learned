@@ -4,7 +4,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 Motivation : It never too late start as fresh and its OK to go slow.
 
 ### 08-September-2022
-* Learning again the kotlin fundametals | https://www.youtube.com/watch?v=887MNv283dc&list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz&index=2
+* Learning kotlin fundametals till String interpolation | https://www.youtube.com/watch?v=887MNv283dc&list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz&index=2
 
 GAP | 30th-Aug to 07th-Sep 22 | Out of station
 
