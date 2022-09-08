@@ -3,6 +3,26 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Motivation : It never too late start as fresh and its OK to go slow.
 
+### 08-September-2022
+* Learning again the kotlin fundametals | https://www.youtube.com/watch?v=887MNv283dc&list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz&index=2
+
+GAP | 30th-Aug to 07th-Sep 22 | Out of station
+
+### 28-August-2022
+* Unsrstandig the dependncy injection from 
+    1. https://medium.com/@ahmadkazimi/6-design-patterns-every-android-developer-must-know-53d912b5864b
+    2. https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android#toc-anchor-008
+* Learn the Adapter pattern from 
+    1. https://www.geeksforgeeks.org/adapter-pattern/
+    2. https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotlin
+* Pushed Android-Design-Patterns learnings on github | https://github.com/firozanawar/Android-Design-Patterns
+
+### 27-August-2022
+* Learned Builder, Facade pattern from
+  1. https://www.youtube.com/watch?v=Gcc5p2iWwKA
+  2. https://medium.com/@rajbopche/builder-pattern-in-kotlin-the-problem-63e2b27429c4
+  3. https://medium.com/@mikelimantara/common-design-patterns-in-android-development-bc8bfe6ab183
+
 ### 26-August-2022
 * Singleton, Factory Pattern learning from
   1. https://medium.com/@ahmadkazimi/6-design-patterns-every-android-developer-must-know-53d912b5864b
