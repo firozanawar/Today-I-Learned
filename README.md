@@ -3,8 +3,12 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Motivation : It never too late start as fresh and its OK to go slow.
 
+### 09-September-2022
+* Java + DSA + Interview Preparation Course by Kunal Kushwaha | https://www.youtube.com/watch?v=Nckx9qMy_kw&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=2
+* kotlin fundametals till Elvis Operator | https://www.youtube.com/watch?v=887MNv283dc&list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz&index=19
+
 ### 08-September-2022
-* Learning kotlin fundametals till String interpolation | https://www.youtube.com/watch?v=887MNv283dc&list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz&index=2
+* Learning kotlin fundametals till String interpolation | https://www.youtube.com/watch?v=887MNv283dc&list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz&index=1
 
 GAP | 30th-Aug to 07th-Sep 22 | Out of station
 
