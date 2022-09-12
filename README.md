@@ -3,21 +3,28 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Motivation : It never too late start as fresh and its OK to go slow.
 
+### 12-September-2022
+* kotlin-coroutines-by-tutorials  Day 2 | https://www.raywenderlich.com/books/kotlin-coroutines-by-tutorials/v2.0/chapters/3-getting-started-with-coroutines
+* Create a Function in a Kotlin Class | https://www.youtube.com/watch?v=aO2BR-kFkCA&list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz&index=39
+
 ### 11-September-2022
+* kotlin-coroutines-by-tutorials Day 1| https://www.raywenderlich.com/books/kotlin-coroutines-by-tutorials/v2.0/chapters/1-what-is-asynchronous-programming
+
+### 10-September-2022
 * Android View Model and How it works internally 
   1. https://write.agrevolution.in/view-model-and-how-it-works-internally-88295e8598ee
   2. https://blog.mindorks.com/android-viewmodels-under-the-hood
   3. https://proandroiddev.com/viewmodel-magic-revealed-330476b5ab27
 * kotlin fundametals till ovrload a fuction | https://www.youtube.com/watch?v=887MNv283dc&list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz&index=29
 
-### 10-September-2022
+### 09-September-2022
 * Java + DSA + Interview Preparation Course by Kunal Kushwaha | https://www.youtube.com/watch?v=Nckx9qMy_kw&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=3
 * kotlin fundametals till Elvis Operator | https://www.youtube.com/watch?v=887MNv283dc&list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz&index=19
 
-### 09-September-2022
+### 08-September-2022
 * Learning kotlin fundametals till String interpolation | https://www.youtube.com/watch?v=887MNv283dc&list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz&index=1
 
-GAP | 30th-Aug to 08th-Sep 22 | Out of station
+GAP | 30th-Aug to 07th-Sep 22 | Out of station
 
 ### 28-August-2022
 * Unsrstandig the dependncy injection from 
