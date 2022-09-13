@@ -3,6 +3,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Motivation : It never too late start as fresh and its OK to go slow.
 
+### 13-September-2022
+* Dependent Jobs in action coroutines | https://www.raywenderlich.com/books/kotlin-coroutines-by-tutorials/v2.0/chapters/3-getting-started-with-coroutines
+* Leard kotlin fundamentals till ENUM | https://www.youtube.com/watch?v=vsprV3NGkA4&list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz&index=51
+
 ### 12-September-2022
 * kotlin-coroutines-by-tutorials  Day 2 | https://www.raywenderlich.com/books/kotlin-coroutines-by-tutorials/v2.0/chapters/3-getting-started-with-coroutines
 * Create a Function in a Kotlin Class | https://www.youtube.com/watch?v=aO2BR-kFkCA&list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz&index=39
