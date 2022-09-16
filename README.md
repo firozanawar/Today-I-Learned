@@ -3,6 +3,11 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Motivation : It never too late start as fresh and its OK to go slow.
 
+### 17-September-2022
+* 
+
+GAP | 14th-Sep to 16th-Sep 22 | Medical issue
+
 ### 13-September-2022
 * Dependent Jobs in action coroutines | https://www.raywenderlich.com/books/kotlin-coroutines-by-tutorials/v2.0/chapters/3-getting-started-with-coroutines
 * Leard kotlin fundamentals till ENUM | https://www.youtube.com/watch?v=vsprV3NGkA4&list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz&index=51
