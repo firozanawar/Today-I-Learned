@@ -4,7 +4,16 @@ A collection of concise write-ups on small things I learn day to day across a va
 Motivation : It never too late start as fresh and its OK to go slow.
 
 ### 17-September-2022
-* 
+* Launch vs Async in Kotlin Coroutines
+  1. https://www.geeksforgeeks.org/launch-vs-async-in-kotlin-coroutines/
+  2. https://medium.com/mobile-app-development-publication/network-fetch-with-kotlin-coroutine-3eee5593da1b
+* strivers-a2z-dsa-course - Learn the basics
+  1. User Input / Output | https://www.programiz.com/java-programming/basic-input-output
+  2. java-is-pass-by-value-and-not-pass-by-reference  
+      1. https://www.digitalocean.com/community/tutorials/java-is-pass-by-value-and-not-pass-by-reference
+      2. https://www.youtube.com/watch?v=2QGQK18lzt8
+      3. https://www.youtube.com/watch?v=ywOMwJbSAlM
+      4. https://www.youtube.com/watch?v=ToViCwuQm-4
 
 GAP | 14th-Sep to 16th-Sep 22 | Medical issue
 
