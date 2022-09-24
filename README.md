@@ -3,7 +3,11 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Motivation : It never too late start as fresh and its OK to go slow.
 
-### 17-September-2022
+### 24-September-2022
+
+GAP | 14th-Sep to 23rd-Sep | Medical issue
+
+### 14-September-2022
 * Launch vs Async in Kotlin Coroutines
   1. https://www.geeksforgeeks.org/launch-vs-async-in-kotlin-coroutines/
   2. https://medium.com/mobile-app-development-publication/network-fetch-with-kotlin-coroutine-3eee5593da1b
@@ -14,8 +18,6 @@ Motivation : It never too late start as fresh and its OK to go slow.
       2. https://www.youtube.com/watch?v=2QGQK18lzt8
       3. https://www.youtube.com/watch?v=ywOMwJbSAlM
       4. https://www.youtube.com/watch?v=ToViCwuQm-4
-
-GAP | 14th-Sep to 16th-Sep 22 | Medical issue
 
 ### 13-September-2022
 * Dependent Jobs in action coroutines | https://www.raywenderlich.com/books/kotlin-coroutines-by-tutorials/v2.0/chapters/3-getting-started-with-coroutines
