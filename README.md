@@ -4,6 +4,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 Motivation : It never too late start as fresh and its OK to go slow.
 
 ### 24-September-2022
+* DSA course by  Dinesh Varyani - till Time & Space complexity | https://www.youtube.com/watch?v=zwI0GWYe5jY&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d
+* Android developer roadmap by Trello - fundamentals | https://trello.com/b/fsc44tYh/android-developer-roadmap
 
 GAP | 14th-Sep to 23rd-Sep | Medical issue
 
