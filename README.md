@@ -3,9 +3,18 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Motivation : It never too late start as fresh and its OK to go slow.
 
+### 06-Oct-2022
+* DSA by WsCubeTech | https://www.youtube.com/watch?v=hCrO_cR7kno&t=39s
+
+GAP | 26th-Sep to 5th-Oct | Guest at home
+
+### 25-September-2022
+* DSA course by  Dinesh Varyani - Arrays | https://www.youtube.com/watch?v=zwI0GWYe5jY&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d
+
 ### 24-September-2022
-* DSA course by  Dinesh Varyani - till Time & Space complexity | https://www.youtube.com/watch?v=zwI0GWYe5jY&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d
+* DSA course by  Dinesh Varyani - Time & Space complexity | https://www.youtube.com/watch?v=zwI0GWYe5jY&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d
 * Android developer roadmap by Trello - fundamentals | https://trello.com/b/fsc44tYh/android-developer-roadmap
+* Learning some basic terminal commands | https://medium.com/@manujarvinen/learning-some-basic-terminal-commands-d478e7b8ffe4
 
 GAP | 14th-Sep to 23rd-Sep | Medical issue
 
