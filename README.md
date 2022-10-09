@@ -3,7 +3,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Motivation : It never too late start as fresh and its OK to go slow.
 
-### 06-Oct-2022
+### 9th-Oct-2022
+* DSA by Dinesh Varyani YT | https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d&index=1
+
+### 06-to-9th-Oct-2022
 * DSA by WsCubeTech | https://www.youtube.com/watch?v=hCrO_cR7kno&t=39s
 
 GAP | 26th-Sep to 5th-Oct | Guest at home
