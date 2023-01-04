@@ -3,6 +3,12 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 Motivation : It never too late start as fresh and its OK to go slow.
 
+
+### 03-Jan-2023
+* Kotlin learning from Cheezy Code Youtube | https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G
+
+GAP | 10th-Oct-2022 to 2nd-Jan-2023  | Medical issue
+
 ### 9th-Oct-2022
 * DSA by Dinesh Varyani YT | https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d&index=1
 
